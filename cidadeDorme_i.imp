@@ -83,7 +83,7 @@ terminar_cadastro =
 //Definição dos papéis dos participantes
 distribuir_papeis =
     BEGIN
-        skip
+        status_j := ataque
     END;
 
 
