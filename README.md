@@ -11,6 +11,8 @@ lobisomem, no entanto, não é tão simples, pois, na aldeia, há um detetive e 
 curandeiro capazes de, durante à noite, respectivamente, investigar se alguém é
 aldeão comum ou não e curar um aldeão que tenha sido atacado pelo lobisomem,
 salvando-o da morte.
+
+
  Funcionamento
 Inicialmente, as pessoas se cadastram para jogar uma partida. A quantidade mínima
 de participantes é sete e a máxima, dez.
