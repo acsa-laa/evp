@@ -14,6 +14,7 @@ salvando-o da morte.
 
 
  Funcionamento
+ 
 Inicialmente, as pessoas se cadastram para jogar uma partida. A quantidade mínima
 de participantes é sete e a máxima, dez.
  - Parte 0 - Para começar, os papéis (lobisomem, detetive, curandeiro e comum) dos
